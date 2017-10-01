@@ -10,6 +10,6 @@ Freedom of information analysis of UK library CIPFA returns
 | Angus | 31/08/2017 | Outsourced to Angus Alive. Contacted on 01/09/2017. Provided 6/9/2017. | [Angus](data/Angus.xls) |
 | Argyll and Bute | 31/08/2017 |  |  |
 | Barking and Dagenham | 31/08/2017 | Refused 26/9/2017. Reason given as exempt as CIPFA currently preparing for publication. Weird. Requested internal review. |  |
-| Barnet | 31/08/2018 | No response. Beyond legal time limit. Requested internal review. |  |
+| Barnet | 31/08/2018 | No response. Beyond legal time limit. Requested internal review. Data sent 29/9/2017 | [Barnet](data/Barnet.xls) |
 | Birmingham City | 9/09/2017 | Refused on 25/09/2017. Data not held as still being compiled. Deadline was July? Internal review requested. |  |
 | Blaenau Gwent | 9/9/2017 | Reply 25/9/2017. Data exported into 3 unusable PDFs. Internal revew requested. |  |
