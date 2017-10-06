@@ -8,12 +8,13 @@ Description
 
 Every year most library services in the UK complete CIPFA library returns. This is a standard set of data on issues, staff, expenditure, libraries, mobile libraries, and more.
 
-CIPFA is not publicly available data. They are a private organisation who sell the data the library services send to them. The returns completed by library authorities, although rarely released voluntarily, are subject to Freedom of Information as they are publicly funded data.
+CIPFA is not publicly available data. They are a private organisation who sell the data. The returns completed by library authorities, although rarely released voluntarily, are subject to Freedom of Information as they are publicly funded data.
 
-This is an experiment to manually collect the CIPFA data for 2016/2017 from library authorities. Freedom of information requests were sent to the authorities which asked:
+This is an experiment to manually collect the CIPFA data for 2016/2017 from library authorities. Freedom of information requests were sent to the authorities which asked 3 things:
 
 1. Whether the authority completed a CIPFA return
-2. If the above was 'Yes', to send the data (importantly requested a copy of the same file - a machine readable spreadsheet).
+2. If the above was 'Yes', to send the data
+3. The data should be sent as a copy of the same file as sent to CIPFA (a machine readable spreadsheet).
 
 Results
 -------
