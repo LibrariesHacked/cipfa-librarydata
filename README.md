@@ -18,22 +18,22 @@ This is an experiment to manually collect the CIPFA data for 2016/2017 from libr
 Results
 -------
 
-| Authority | Request Date | Status | Notes | Files |
-| --------- | ------------ | ------ | ----- | ----- |
+| Service | Requested | Status | Notes | Files |
+| ------- | --------- | ------ | ----- | ----- |
 | Aberdeen City | 24/08/2017 | Successful | Data sent | [Aberdeen XSL](data/AberdeenCity.xls) |
-| Aberdeenshire | 31/08/2017 | Obstructive | Unusable PDF sent. Internal review requested. | [Aberdeenshire PDF](data/Aberdeenshire.pdf). |
+| Aberdeenshire | 31/08/2017 | Obstructive | Unusable PDF sent. Internal review requested. | [Aberdeenshire PDF](data/Aberdeenshire.pdf) |
 | Anglesey | 31/08/2017 | No Response | Beyond legal limit |  |
-| Angus | 31/08/2017 | Successful | Outsourced to Angus Alive. Provided full data file. | [Angus XLS](data/Angus.xls) |
+| Angus | 31/08/2017 | Successful | Data sent by Angus Alive | [Angus XLS](data/Angus.xls) |
 | Argyll and Bute | 31/08/2017 | Successful | Data sent | [ArgyllAndBute XLS](data/ArgyllAndBute.xls) |
-| Barking and Dagenham | 31/08/2017 | Refused | Reason given as exempt as CIPFA intend to publish in future. Requested internal review. | [B&D Response DOCX](data/BarkingAndDagenhamResponse.docx) |
+| Barking and Dagenham | 31/08/2017 | Refused | Claimed exemption as CIPFA intend to publish in future. | [B&D Response DOCX](data/BarkingAndDagenhamResponse.docx) |
 | Barnet | 31/08/2018 | Successful | Initially no response. Requested internal review once past legal limit. Data then sent. | [Barnet XLS](data/Barnet.xls) |
-| Barnsley | 9/9/2017 | Successful | Data not held. They don't do it. Good on them. | [Barnsley Response DOC](data/Barnsley.doc) |
+| Barnsley | 9/9/2017 | Not Held | They don't do it any more. Good on them. | [Barnsley Response DOC](data/Barnsley.doc) |
 | Bedford | 9/9/2017 | Obstructive | Sent as an unusable PDF | [Bedford PDF](data/Bedford.pdf) |
-| Bexley | 9/9/2017 | Refused | Claim an exemption that the data is available from CIPFA. Internal review requested | [Bexley Response PDF](BexleyResponse.pdf) | 
-| Birmingham City | 9/09/2017 | Refused | Claimed data not held as still being compiled. Deadline to CIPFA was July. Internal review requested. | [Birmingham Response](data/BirminghamResponse.docx) |
+| Bexley | 9/9/2017 | Refused | Claim exemption that the data is available from CIPFA. | [Bexley Response PDF](BexleyResponse.pdf) | 
+| Birmingham City | 9/09/2017 | Refused | Claimed data not held as still being compiled. Deadline to CIPFA was July. | [Birmingham Response](data/BirminghamResponse.docx) |
 | Blackburn with Darwen | No Response | Beyond legal limit |  |
 | Blackpool | No Response |  |  | 
-| Blaenau Gwent | 9/9/2017 | Obstructive | Data exported into 3 separate unusable PDFs. Internal revew requested. | [BG PDF 1](data/BlaenauGwent1.pdf), [BG PDF 2](data/BlaenauGwent2.pdf), [BG PDF 3](data/BlaenauGwent3.pdf) |
+| Blaenau Gwent | 9/9/2017 | Obstructive | Data exported into 3 separate unusable PDFs. | [BG PDF 1](data/BlaenauGwent1.pdf), [BG PDF 2](data/BlaenauGwent2.pdf), [BG PDF 3](data/BlaenauGwent3.pdf) |
 | Bolton | 9/9/2017 | Some Success | Not the CIPFA return sent but the data put into an alternate spreadsheet. Harder to use. | [Bolton](data/bolton.xlsx) |
 | Bradford | 9/9/2017 | No Response |  |  |
 | Bracknell Forest | 9/9/2017 | No Response |  |  |
