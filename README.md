@@ -30,7 +30,7 @@ Results
 | Barnet | 31/08/2018 | Successful | Requested review once past legal limit. Data then sent. | [Barnet XLS](data/Barnet.xls) |
 | Barnsley | 9/9/2017 | Not Held | They don't do it any more. | [Barnsley Response DOC](data/Barnsley.doc) |
 | Bedford | 9/9/2017 | Obstructive | Sent as an unusable PDF | [Bedford PDF](data/Bedford.pdf) |
-| Bexley | 9/9/2017 | Refused | Claimed exemption that data is available from CIPFA. | [Bexley Response PDF](BexleyResponse.pdf) | 
+| Bexley | 9/9/2017 | Refused | Claimed exemption that data is available from CIPFA. | [Bexley Response PDF](data/BexleyResponse.pdf) | 
 | Birmingham City | 9/09/2017 | Refused | Claimed data not held as still being compiled. | [Birmingham Response](data/BirminghamResponse.docx) |
 | Blackburn with Darwen | 9/9/2017 | No Response | Beyond legal limit |  |
 | Blackpool | 9/9/2017 | No Response |  |  | 
